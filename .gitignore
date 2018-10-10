@@ -1,0 +1,6 @@
+api/views/__pycache__/
+api/controllers/__pycache__/
+api/models/__pycache__/
+instance/__pycache__/
+tests/__pycache__
+venv/
